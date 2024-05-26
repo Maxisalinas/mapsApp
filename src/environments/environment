@@ -1,0 +1,6 @@
+
+    export const environment = {
+    
+        mapbox_key: "pk.eyJ1IjoibWF4aTI3IiwiYSI6ImNsd2plemt4ZjEwMDgyam83MnNjaWF6am8ifQ.v9vjFGiNe0gGh3I8USAp2g"
+
+    }; 
